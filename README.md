@@ -6,3 +6,5 @@ Um simples servidor HTTP local host > com a funcionalidade de ter um Mini navega
 
 necessita de muitos aperfeiçoamentos você pode fazer isso, não vou ter mais muito tempo para ajustar isso
 > coisas que precisam ser ajeitadas é ele funcionar bem com PHP e PY
+> pequenas otimizações
+> e interagir mais corretamente com a IDE
